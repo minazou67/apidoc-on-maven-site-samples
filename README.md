@@ -1,6 +1,6 @@
 # Sample of RESTful API documentation on maven site
 
-This is a RESTful API documentation on maven site of sample applicationon using Springfox.
+This is a Sample of RESTful API documentation on maven site.
 
 ## Environment
 
