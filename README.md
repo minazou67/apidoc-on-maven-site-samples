@@ -9,3 +9,9 @@ This is a RESTful API documentation on maven site of sample applicationon using 
 * Springfox Staticdocs
 * Asciidoctor Maven plugin
 * Apache Maven Site Plugin
+
+## How to use
+
+```sh
+mvn clean site
+```
