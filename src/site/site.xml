@@ -12,10 +12,8 @@
   </skin>
   <body>
     <menu ref="reports"/>
-    <menu name="REST API">
-      <item href="overview.html" name="Overview" />
-      <item href="definitions.html" name="Definitions" />
-      <item href="paths.html" name="Paths" />
+    <menu name="Other">
+      <item href="rest-api.html" name="REST API Report" />
     </menu>
   </body>
 </project>

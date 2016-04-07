@@ -1,0 +1,10 @@
+= REST API Report
+:doctype: book
+:icons: font
+:source-highlighter: coderay
+:toc: left
+:toclevels: 2
+
+include::overview.adoc[]
+include::definitions.adoc[]
+include::paths.adoc[]
